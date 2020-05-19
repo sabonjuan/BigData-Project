@@ -1,0 +1,14 @@
+[Elementos]
+AAPL
+GOOG
+MSFT
+FB
+SNAP
+QCOM
+MCD
+SBUX
+USO
+TSLA
+^GSPC
+^DJI
+^IXIC
